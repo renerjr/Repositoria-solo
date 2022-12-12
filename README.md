@@ -1,2 +1,2 @@
-# Repositoria-solo
+# Repositorio-solo
 testando conhecimento
